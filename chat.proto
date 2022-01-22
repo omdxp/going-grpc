@@ -1,4 +1,5 @@
 syntax = "proto3";
+option go_package = "github.com/Omar-Belghaouti/going-grpc";
 package chat;
 
 message Message {
